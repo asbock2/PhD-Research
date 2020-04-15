@@ -1,4 +1,4 @@
-# PhD-Research
+# PhD-Research-Data
 
 README --describes content of asbock2/PhD-Research directory
 15 April 2020
@@ -21,8 +21,7 @@ PM2.5-and-ozone_RF.nc
 
 Supplementary tables.xlsx
 
-•	Activity data for charcoal production use and transport in Africa in 2014
-•	Activity data for charcoal production and use in 2030
+•	Activity data for charcoal production use and transport in Africa in 2014                                                             •	Activity data for charcoal production and use in 2030
 
 # References:
 Bockarie, A. S., E. A. Marais, A. R. MacKenzie, Air quality and climate impact of charcoal supply chain in Africa, in progress.
