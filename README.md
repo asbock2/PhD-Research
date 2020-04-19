@@ -24,4 +24,6 @@ Supplementary tables.xlsx
 •	Activity data for charcoal production use and transport in Africa in 2014                                                             •	Activity data for charcoal production and use in 2030
 
 # References:
+In the spirit of open access to data generated from peer-reviewed research, emission inventory and GEOS-Chem output data is open to the public to use. Please consult the publication that describes the data and feel free to contact me if you have any queries about the data. Where the data makes significant contribution to a peer-reviewed publication, I ask that you consider including me as a co-author. Otherwise, please reference the publication provided below.
+
 Bockarie, A. S., E. A. Marais, A. R. MacKenzie, Air quality and climate impact of charcoal supply chain in Africa, in progress.
