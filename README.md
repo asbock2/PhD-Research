@@ -1,4 +1,4 @@
-# PhD-Research-Data
+# Bockarie et al.
 
 README --describes content of asbock2/PhD-Research directory
 15 April 2020
